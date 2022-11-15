@@ -1,2 +1,2 @@
-# sample
+#JERNIK
 Sample_Repository
